@@ -1,0 +1,6 @@
+
+- git clone [The Name Of Repo]
+
+- git add [File Name To Be Adden To Staigin Area ]
+
+- git reset head [file_name to remove from staiging area]
